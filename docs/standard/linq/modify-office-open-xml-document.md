@@ -11,7 +11,7 @@ ms.assetid: 467d489c-2b1b-453b-a757-8ac180e82a96
 
 This article presents an example for C# and Visual Basic that opens an Office Open XML document, modifies it, and saves it.
 
-For more information on Office Open XML, see [Open XML SDK](https://github.com/OfficeDev/Open-XML-SDK) and [www.ericwhite.com](http://ericwhite.com/).
+For more information on Office Open XML, see [Open XML SDK](https://github.com/OfficeDev/Open-XML-SDK) and [www.ericwhite.com](https://ericwhite.com/).
 
 ## Example
 
